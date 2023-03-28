@@ -1,0 +1,8 @@
+# Do not add torch here, it's platform dependent
+# version names are intentioally not specified to get the latest, but if something goes
+# off feel free to fix them in place.
+numpy<1.24
+pandas
+matplotlib
+pytorch-forecasting
+Jupyter

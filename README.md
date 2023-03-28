@@ -12,5 +12,12 @@ This is platform-dependent, so first install relevant part here
 
 https://pytorch.org/get-started/locally/
 
+For Windows:
+
+```
+pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
+pip install pytorch-forecasting
+```
+
 
 ### Step 2
