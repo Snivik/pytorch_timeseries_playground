@@ -6,3 +6,4 @@ pandas
 matplotlib
 pytorch-forecasting
 Jupyter
+autogluon
